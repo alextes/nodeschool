@@ -5,7 +5,8 @@
   "author": "Alexander Tesfamichael <alex.tesfamichael@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "learnyounode": "^3.5.10"
+    "learnyounode": "^3.5.10",
+    "stream-adventure": "^4.0.5"
   },
   "devDependencies": {
     "eslint": "^3.17.0",
