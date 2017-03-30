@@ -6,9 +6,10 @@ const ext = process.argv[3];
 
 fs.readdir(pathToSearch, (err, files) => {
   if (err) { return console.log(err); }
-  files.forEach(file => {
+  files.forEach((file) => {
     if (path.extname(file) === `.${ext}`) {
       console.log(file);
     }
-  })
-})
+  });
+  return undefined;
+});

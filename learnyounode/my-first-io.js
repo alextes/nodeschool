@@ -1,5 +1,6 @@
 const fs = require('fs');
-file = fs.readFileSync(process.argv[2]);
-lines = file.toString().split('\n');
-numOfLines = lines.length - 1;
+
+const file = fs.readFileSync(process.argv[2]);
+const lines = file.toString().split('\n');
+const numOfLines = lines.length - 1;
 console.log(numOfLines);
