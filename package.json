@@ -6,9 +6,18 @@
   "license": "MIT",
   "dependencies": {
     "learnyounode": "^3.5.10",
-    "stream-adventure": "^4.0.5"
+    "moment": "^2.18.1",
+    "scope-chains-closures": "^1.0.4",
+    "stream-adventure": "^4.0.5",
+    "through2": "^2.0.3"
   },
   "devDependencies": {
+    "esformatter": "^0.10.0",
+    "esformatter-add-trailing-commas": "^1.1.0",
+    "esformatter-align": "^0.2.3",
+    "esformatter-curly": "^0.0.2",
+    "esformatter-flow": "^1.0.1",
+    "esformatter-limit-linebreaks": "^0.0.3",
     "eslint": "^3.17.0",
     "eslint-config-airbnb-base": "^11.1.1",
     "eslint-plugin-import": "^2.2.0"
