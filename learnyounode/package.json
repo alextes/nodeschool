@@ -1,0 +1,10 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "learnyounode": "^3.5.10",
+    "moment": "^2.18.1"
+  }
+}

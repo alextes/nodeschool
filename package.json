@@ -5,10 +5,6 @@
   "author": "Alexander Tesfamichael <alex.tesfamichael@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "learnyounode": "^3.5.10",
-    "moment": "^2.18.1",
-    "scope-chains-closures": "^1.0.4",
-    "stream-adventure": "^4.0.5",
     "through2": "^2.0.3"
   },
   "devDependencies": {

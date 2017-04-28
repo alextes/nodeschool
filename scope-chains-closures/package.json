@@ -1,0 +1,9 @@
+{
+  "name": "scope-chains-closures",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "scope-chains-closures": "^1.0.4"
+  }
+}

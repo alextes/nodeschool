@@ -1,0 +1,9 @@
+{
+  "name": "stream-adventure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "stream-adventure": "^4.0.5"
+  }
+}
