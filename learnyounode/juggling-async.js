@@ -1,3 +1,4 @@
+// @flow
 const http = require('http');
 
 let count = 0;
