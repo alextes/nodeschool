@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "browserify": "^14.3.0",
-    "browserify-adventure": "^1.7.7"
+    "browserify-adventure": "^1.7.7",
+    "uniq": "^1.0.1"
   }
 }
