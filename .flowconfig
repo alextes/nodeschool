@@ -1,0 +1,9 @@
+[ignore]
+.*/node_modules/esformatter/.*
+.*/node_modules/esformatter-flow/.*
+
+[include]
+
+[libs]
+
+[options]
