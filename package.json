@@ -14,7 +14,7 @@
     "esformatter-curly": "^0.0.2",
     "esformatter-flow": "^1.0.1",
     "esformatter-limit-linebreaks": "^0.0.3",
-    "eslint": "^3.17.0",
+    "eslint": "^4.18.2",
     "eslint-config-airbnb-base": "^11.1.1",
     "eslint-plugin-import": "^2.2.0"
   }
